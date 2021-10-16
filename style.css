@@ -1,0 +1,29 @@
+#title {
+    text-align: center;
+    background-image: linear-gradient(to bottom right,aqua, rgb(255, 0, 200),#9d4bfa);
+    font-family: cursive;
+}
+#img1 {
+   margin-top: 30px;
+}
+#wiki {
+    text-align: center;
+    background-image: linear-gradient(to bottom right,rgb(255, 0, 0), rgb(255, 208, 121),#fff56c);
+    font-family: cursive;
+}
+#images {
+    text-align: center;
+    background-image: linear-gradient(to bottom right,rgb(0, 89, 255), rgb(255, 121, 121),#fff56c);
+    font-family: cursive;
+
+}
+.img2 {
+    width: 200px;
+    height: 200px;
+}
+#video {
+    text-align: center;
+    background-image: linear-gradient(to bottom right,rgb(195, 0, 255), rgb(255, 121, 210),#ff6c6c);
+    font-family: cursive;
+
+}
